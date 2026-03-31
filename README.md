@@ -1,3 +1,3 @@
 # archishma 
-🧬 bioinformatics & computational biology phd student  
+🧬 computational biology phd student  
 📍 chapel hill, nc
